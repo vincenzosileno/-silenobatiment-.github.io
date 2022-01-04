@@ -1,3 +1,7 @@
+.body{
+    text-rendering: optimizeLegibility;
+}
+
 .banner-image{
     background-image: url("../images/banner-img.jpg");
     background-size: cover;
