@@ -112,3 +112,7 @@
     color: black;
     text-decoration: none;
 }
+
+.i{
+    display:inline-block;  
+}
